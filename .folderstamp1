@@ -1,0 +1,65 @@
+This folder: /home/daniella/Desktop/floflis-luck-of-today@floflis.eth
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 113       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10921723    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-06 16:04:21.071716710 -0300
+Modify: 2024-07-06 16:04:21.107716430 -0300
+Change: 2024-07-06 16:04:21.107716430 -0300
+ Birth: 2024-07-06 16:04:21.071716710 -0300
+IPFS hash: Qmbkt4ynPXnBU7vA6dz5x77aE6w2DDSZMMZiybMcqjPcX2
+------------------------------
+  File: ./metadata.json
+  Size: 206       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10921661    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-06 16:02:26.015656913 -0300
+Modify: 2024-07-06 16:02:26.016656904 -0300
+Change: 2024-07-06 16:02:26.022656852 -0300
+ Birth: 2024-07-06 16:02:26.015656913 -0300
+IPFS hash: QmfKbJmugzf39YGSXP83SvRJcV6vhuDVrDNDp5Eazp1A5w
+------------------------------
+  File: ./floflis-luck-of-today.js
+  Size: 2422      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10921658    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-06 14:13:40.455682420 -0300
+Modify: 2024-07-06 14:13:40.460682410 -0300
+Change: 2024-07-06 14:13:40.464682402 -0300
+ Birth: 2024-07-06 14:13:40.455682420 -0300
+IPFS hash: QmS81rDMSKwWuhvv6mqktiqa65vBKT2PJYZ9VpnszrQEbh
+------------------------------
+  File: ./quotes.js
+  Size: 906       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10921631    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-06 14:14:05.032632910 -0300
+Modify: 2024-07-06 14:14:05.035632904 -0300
+Change: 2024-07-06 14:14:05.043632887 -0300
+ Birth: 2024-07-06 14:14:05.032632910 -0300
+IPFS hash: QmZzGaB8HGa1w4Q8EPZLLvGXw4Ni8pXBJjwhTmnJPpeket
+------------------------------
+  File: ./icon.png
+  Size: 3061      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10921623    Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-06 16:02:54.653413698 -0300
+Modify: 2024-07-05 14:06:40.046109095 -0300
+Change: 2024-07-06 16:02:54.423415625 -0300
+ Birth: 2024-07-06 16:02:54.423415625 -0300
+IPFS hash: QmR12vwb2iwyZiEYa6fhTjBUZGWcVtXiC3gZh9XT4Svn3B
+------------------------------
+  File: ./metadata-2.json
+  Size: 278       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10921660    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-06 16:02:08.187811676 -0300
+Modify: 2024-07-06 16:01:58.551896432 -0300
+Change: 2024-07-06 16:02:12.523773792 -0300
+ Birth: 2024-07-06 16:01:58.550896441 -0300
+IPFS hash: QmZYjocm2heQs6dGAWNne1zHqeWSKf7nhAobiBoJ9UA5sp
+------------------------------

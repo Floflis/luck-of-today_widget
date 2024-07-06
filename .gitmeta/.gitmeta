@@ -1,0 +1,67 @@
+commit QmSDREjeur3y9kBKQy16egS55nazip2XwwXDWRomqMdVJ3
+Branch: HEAD
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: b8e657ccd2adf373dead1ba639b1de036320e4a811207a58ad6da30d84c70dae7df19ad4e12f5497a05f04b598d4f5d08f4ebc25b372b69c681a15e43b4a174c01
+
+------------------------------
+
+Commit CID if including git's SHA1: QmavTiVWQ2kM6NTJknkYMbRDjw2wQVyoNG7Pka7oAV7JGq
+Commit CID if containing only file hashes: QmeF3T7hxDqsT6W9FAdMh8zY9iv93bMD5vGNGUMAQyp4ok
+
+------------------------------
+
+.gitmeta version: r8
+Local folder: /home/daniella/Desktop/floflis-luck-of-today@floflis.eth
+Remote Name: 
+Remote URL: 
+
+------------------------------
+
+chown -h 1000:1000 '.folderstamp1'
+chmod 0664 '.folderstamp1'
+/usr/bin/touch -hcmd "2024-07-06 16:04:21.6877119270 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-07-06 16:24:01.0390807980 -0300" '.folderstamp1'
+chown -h 1000:1000 '.folderstamp2'
+chmod 0664 '.folderstamp2'
+/usr/bin/touch -hcmd "2024-07-06 16:24:01.0480808670 -0300" '.folderstamp2'
+/usr/bin/touch -hcad "2024-07-06 16:43:02.0676624020 -0300" '.folderstamp2'
+chown -h 1000:1000 '.folderstamp3'
+chmod 0664 '.folderstamp3'
+/usr/bin/touch -hcmd "2024-07-06 16:43:02.0796623810 -0300" '.folderstamp3'
+/usr/bin/touch -hcad "2024-07-06 16:49:49.9278125160 -0300" '.folderstamp3'
+chown -h 1000:1000 '.folderstamp4'
+chmod 0664 '.folderstamp4'
+/usr/bin/touch -hcmd "2024-07-06 16:49:50.7168106560 -0300" '.folderstamp4'
+/usr/bin/touch -hcad "2024-07-06 17:02:56.0913881900 -0300" '.folderstamp4'
+chown -h 1000:1000 'future/metadata.json'
+chmod 0664 'future/metadata.json'
+/usr/bin/touch -hcmd "2024-07-06 16:01:58.5518964320 -0300" 'future/metadata.json'
+/usr/bin/touch -hcad "2024-07-06 16:24:00.7190783090 -0300" 'future/metadata.json'
+chown -h 1000:1000 'icon.png'
+chmod 0755 'icon.png'
+/usr/bin/touch -hcmd "2024-07-06 16:52:27.1114308390 -0300" 'icon.png'
+/usr/bin/touch -hcad "2024-07-06 16:52:33.1004158960 -0300" 'icon.png'
+chown -h 1000:1000 'icon.png.log.html5'
+chmod 0664 'icon.png.log.html5'
+/usr/bin/touch -hcmd "2024-07-06 16:53:18.3823020790 -0300" 'icon.png.log.html5'
+/usr/bin/touch -hcad "2024-07-06 17:03:10.2156212190 -0300" 'icon.png.log.html5'
+chown -h 1000:1000 'metadata.json'
+chmod 0664 'metadata.json'
+/usr/bin/touch -hcmd "2024-07-06 16:10:29.3212083980 -0300" 'metadata.json'
+/usr/bin/touch -hcad "2024-07-06 16:12:41.5904324960 -0300" 'metadata.json'
+chown -h 1000:1000 'past/1/2.dm/metadata.json'
+chmod 0664 'past/1/2.dm/metadata.json'
+/usr/bin/touch -hcmd "2024-07-06 16:02:26.0166569040 -0300" 'past/1/2.dm/metadata.json'
+/usr/bin/touch -hcad "2024-07-06 16:24:00.6050774220 -0300" 'past/1/2.dm/metadata.json'
+chown -h 1000:1000 'past/clover-svgrepo-com.svg'
+chmod 0664 'past/clover-svgrepo-com.svg'
+/usr/bin/touch -hcmd "2024-07-06 16:49:10.6239043500 -0300" 'past/clover-svgrepo-com.svg'
+/usr/bin/touch -hcad "2024-07-06 16:50:26.1667264670 -0300" 'past/clover-svgrepo-com.svg'
+chown -h 1000:1000 'past/icon (copy).svg'
+chmod 0755 'past/icon (copy).svg'
+/usr/bin/touch -hcmd "2024-07-06 16:51:45.4705339820 -0300" 'past/icon (copy).svg'
+/usr/bin/touch -hcad "2024-07-06 17:03:43.7871538790 -0300" 'past/icon (copy).svg'
+chown -h 1000:1000 'past/icon.svg'
+chmod 0755 'past/icon.svg'
+/usr/bin/touch -hcmd "2023-04-26 15:05:34.7538238000 -0300" 'past/icon.svg'
+/usr/bin/touch -hcad "2024-07-06 16:50:27.4057235030 -0300" 'past/icon.svg'
