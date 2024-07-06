@@ -1,0 +1,57 @@
+.floflis-luck-desklet {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+    padding: 15px;
+    width: 300px;
+}
+
+.top-container {
+    margin-bottom: 10px;
+}
+
+.image-container {
+    margin-right: 15px;
+}
+
+.text-container {
+    width: 200px;
+}
+
+.title-label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.quote-label {
+    font-size: 16px;
+    color: #cccccc;
+    word-wrap: break-word;
+    line-height: 1.4;
+}
+
+.author-label {
+    font-size: 14px;
+    color: #999999;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.next-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.next-button:hover {
+    background-color: #45a049;
+}

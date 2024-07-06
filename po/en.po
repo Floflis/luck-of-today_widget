@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Floflis Luck of Today\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-06 21:00+0000\n"
+"PO-Revision-Date: 2024-07-06 21:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Floflis Luck of Today"
+msgstr "Floflis Luck of Today"
+
+msgid "Loading quote..."
+msgstr "Loading quote..."
+
+msgid "Next"
+msgstr "Next"
+
+msgid "The only way to do great work is to love what you do."
+msgstr "The only way to do great work is to love what you do."
+
+msgid "Life is what happens to you while you're busy making other plans."
+msgstr "Life is what happens to you while you're busy making other plans."
+
+msgid "The future belongs to those who believe in the beauty of their dreams."
+msgstr "The future belongs to those who believe in the beauty of their dreams."
+
+msgid "Success is not final, failure is not fatal: it is the courage to continue that counts."
+msgstr "Success is not final, failure is not fatal: it is the courage to continue that counts."
+
+msgid "The only limit to our realization of tomorrow will be our doubts of today."
+msgstr "The only limit to our realization of tomorrow will be our doubts of today."
+
+msgid "Be the change you wish to see in the world."
+msgstr "Be the change you wish to see in the world."
+
+msgid "In the middle of difficulty lies opportunity."
+msgstr "In the middle of difficulty lies opportunity."
+
+msgid "The best way to predict the future is to create it."
+msgstr "The best way to predict the future is to create it."
+
+msgid "Believe you can and you're halfway there."
+msgstr "Believe you can and you're halfway there."
+
+msgid "The only impossible journey is the one you never begin."
+msgstr "The only impossible journey is the one you never begin."

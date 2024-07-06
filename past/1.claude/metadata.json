@@ -1,0 +1,9 @@
+{
+    "uuid": "floflis-luck-of-today@floflis.eth",
+    "name": "Floflis Luck of Today",
+    "description": "Displays a random quote, just like in Orkut",
+    "version": "1.0",
+    "author": "Your Name",
+    "last-edited": "CURRENT_DATE",
+    "stylesheet": "stylesheet.css"
+}
