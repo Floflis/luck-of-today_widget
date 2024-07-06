@@ -1,9 +1,0 @@
-{
-    "uuid": "floflis-luck-of-today@floflis.eth",
-    "name": "Floflis Luck of Today",
-    "description": "Displays a random quote, just like in Orkut",
-    "icon": "gtk-go-back-ltr",
-    "version": "1.0",
-    "contributors": "Daniella Mesquita",
-    "author": "Floflis DAO"
-}

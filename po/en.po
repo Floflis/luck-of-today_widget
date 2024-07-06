@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Floflis Luck of Today"
-msgstr "Floflis Luck of Today"
+msgid "Luck of Today"
+msgstr "Luck of Today"
 
 msgid "Loading quote..."
 msgstr "Loading quote..."
@@ -20,32 +20,32 @@ msgstr "Loading quote..."
 msgid "Next"
 msgstr "Next"
 
-msgid "The only way to do great work is to love what you do."
-msgstr "The only way to do great work is to love what you do."
+msgid "The only way to do great work is to love what you do. - Steve Jobs"
+msgstr "The only way to do great work is to love what you do. - Steve Jobs"
 
-msgid "Life is what happens to you while you're busy making other plans."
-msgstr "Life is what happens to you while you're busy making other plans."
+msgid "Life is what happens to you while you're busy making other plans. - John Lennon"
+msgstr "Life is what happens to you while you're busy making other plans. - John Lennon"
 
-msgid "The future belongs to those who believe in the beauty of their dreams."
-msgstr "The future belongs to those who believe in the beauty of their dreams."
+msgid "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt"
+msgstr "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt"
 
-msgid "Success is not final, failure is not fatal: it is the courage to continue that counts."
-msgstr "Success is not final, failure is not fatal: it is the courage to continue that counts."
+msgid "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt"
+msgstr "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt"
 
-msgid "The only limit to our realization of tomorrow will be our doubts of today."
-msgstr "The only limit to our realization of tomorrow will be our doubts of today."
+msgid "Be the change you wish to see in the world. - Mahatma Gandhi"
+msgstr "Be the change you wish to see in the world. - Mahatma Gandhi"
 
-msgid "Be the change you wish to see in the world."
-msgstr "Be the change you wish to see in the world."
+msgid "In the middle of difficulty lies opportunity. - Albert Einstein"
+msgstr "In the middle of difficulty lies opportunity. - Albert Einstein"
 
-msgid "In the middle of difficulty lies opportunity."
-msgstr "In the middle of difficulty lies opportunity."
+msgid "The best way to predict the future is to create it. - Peter Drucker"
+msgstr "The best way to predict the future is to create it. - Peter Drucker"
 
-msgid "The best way to predict the future is to create it."
-msgstr "The best way to predict the future is to create it."
+msgid "Believe you can and you're halfway there. - Theodore Roosevelt"
+msgstr "Believe you can and you're halfway there. - Theodore Roosevelt"
 
-msgid "Believe you can and you're halfway there."
-msgstr "Believe you can and you're halfway there."
+msgid "The only impossible journey is the one you never begin. - Tony Robbins"
+msgstr "The only impossible journey is the one you never begin. - Tony Robbins"
 
-msgid "The only impossible journey is the one you never begin."
-msgstr "The only impossible journey is the one you never begin."
+msgid "Before they make Mars like Earth, they will make Earth like Mars. - Daniella Mesquita"
+msgstr "Before they make Mars like Earth, they will make Earth like Mars. - Daniella Mesquita"
